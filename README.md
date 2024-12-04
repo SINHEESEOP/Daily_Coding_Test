@@ -12,7 +12,7 @@
 
 ## 디렉토리 구조
 
-```
+```plaintext
 CodingTest/
 ├── C/
 │   ├── Algorithm/
@@ -47,7 +47,6 @@ CodingTest/
 │           └── Baekjoon_33333_HashMapExample.py
 ├── README.md
 └── CONTRIBUTING.md
-```
 
 ---
 
