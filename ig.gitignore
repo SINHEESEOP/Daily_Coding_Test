@@ -1,0 +1,42 @@
+# 로그 파일
+*.log
+
+# 이진 파일
+*.bin
+*.out
+
+# 빌드 폴더
+/target/
+/build/
+
+# Maven 빌드 결과 디렉토리
+target/
+
+# Intellij IDEA 프로젝트 파일
+.idea/
+*.iml
+
+# Eclipse 프로젝트 파일
+.classpath
+.project
+.settings/
+
+# Mac OS에서 자동 생성되는 파일
+.DS_Store
+
+# Node.js 모듈
+node_modules/
+
+# Python 가상 환경
+venv/
+
+# Java Packet File
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary files
+*.tmp
