@@ -1,7 +1,9 @@
+package string;
+
 import java.io.*;
 import java.util.*;
 
-public class 문자열반복_2675 {
+public class baekjoon_2675_문자열반복 {
 
 
 	public static void main(String[] args) throws IOException {
