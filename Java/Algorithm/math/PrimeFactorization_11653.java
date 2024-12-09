@@ -2,7 +2,7 @@ package math;
 
 import java.io.*;
 
-public class PrimeFactorization {
+public class PrimeFactorization_11653 {
 
     private static final int INITIAL_FACTOR = 2;
     private static final int MIN_PRIME = 1;
